@@ -6,4 +6,6 @@ The Python script and Max/MSP patch of the MIDI Hand interface, a gesture contro
 - `MIDI_Hand_Python_script.py`: MicroPython script for the micro:bit. It reads four buttons (A, B and two touch pins), the accelerometer, the compass and a potentiometer, and sends them as MIDI messages over the serial output (31250 baud, pin 0).
 - `MIDI_Hand_MAX_MSP_patch.maxpat`: the Max/MSP patch that receives these messages.
 
-Project page: https://anthonyhunt.org/the-midi-hand/
+---
+
+**Anthony Hunt** · [Project page on ingevision.cloud](https://ingevision.cloud/?lang=en&p=midi-hand) · [LinkedIn](https://www.linkedin.com/in/anthony-hunt-3948a9196) · [GitHub profile](https://github.com/anthohunt)
