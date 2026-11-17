@@ -1,53 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 790" width="460" height="790" font-family="IBM Plex Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-label="MIDI Hand architecture">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 790" width="400" height="790" font-family="IBM Plex Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" role="img" aria-label="MIDI Hand architecture">
 <title>MIDI Hand architecture</title>
 <defs><marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5d6b82"/></marker><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#1f4fd1"/></marker></defs>
-<rect width="460" height="790" rx="16" fill="#ffffff"/>
-<rect x="16" y="16" width="428" height="236" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/>
+<rect width="400" height="790" rx="16" fill="#ffffff"/>
+<rect x="16" y="16" width="368" height="236" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/>
 <text x="28" y="38" fill="#5d6b82" font-size="14" font-weight="600" letter-spacing=".6">THE GLOVE · BBC MICRO:BIT</text>
-<rect x="16" y="388" width="428" height="386" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/>
+<rect x="16" y="388" width="368" height="386" rx="14" fill="#e6ebf2" stroke="#c9d1dd" stroke-dasharray="4 4"/>
 <text x="28" y="762" fill="#5d6b82" font-size="14" font-weight="600" letter-spacing=".6">COMPUTER · MAX/MSP PATCH</text>
-<rect x="28" y="52" width="196" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
+<rect x="28" y="52" width="166" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
 <text x="40" y="78" fill="#14213d" font-size="18" font-weight="600">4 buttons</text>
-<text x="40" y="101" fill="#5d6b82" font-size="15">on the palm</text>
-<rect x="236" y="52" width="196" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
-<text x="248" y="78" fill="#14213d" font-size="18" font-weight="600">Sensors</text>
-<text x="248" y="101" fill="#5d6b82" font-size="15">accelerometer, compass</text>
-<rect x="28" y="170" width="404" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
+<text x="40" y="101" fill="#5d6b82" font-size="14.5">on the palm</text>
+<rect x="206" y="52" width="166" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
+<text x="218" y="78" fill="#14213d" font-size="18" font-weight="600">Sensors</text>
+<text x="218" y="101" fill="#5d6b82" font-size="14.5">tilt, compass</text>
+<rect x="28" y="170" width="344" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
 <text x="40" y="196" fill="#14213d" font-size="18" font-weight="600">MicroPython script</text>
-<text x="40" y="219" fill="#5d6b82" font-size="15">buttons → note · motion → CC</text>
-<rect x="130" y="292" width="200" height="62" rx="10" fill="#fff" stroke="#c9d1dd" stroke-width="1.4"/>
-<text x="142" y="318" fill="#5d6b82" font-size="18" font-weight="600">MIDI–USB cable</text>
-<text x="142" y="341" fill="#5d6b82" font-size="15">to the computer</text>
-<rect x="28" y="412" width="196" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
+<text x="40" y="219" fill="#5d6b82" font-size="14.5">buttons → note · motion → CC</text>
+<rect x="100" y="292" width="200" height="62" rx="10" fill="#fff" stroke="#c9d1dd" stroke-width="1.4"/>
+<text x="112" y="318" fill="#5d6b82" font-size="18" font-weight="600">MIDI‑USB cable</text>
+<text x="112" y="341" fill="#5d6b82" font-size="14.5">to the computer</text>
+<rect x="28" y="412" width="166" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
 <text x="40" y="438" fill="#14213d" font-size="18" font-weight="600">MIDI in</text>
-<text x="40" y="461" fill="#5d6b82" font-size="15">notein · ctlin</text>
-<rect x="236" y="412" width="196" height="62" rx="10" fill="#fff" stroke="#c9d1dd" stroke-width="1.4"/>
-<text x="248" y="438" fill="#5d6b82" font-size="18" font-weight="600">Audio source</text>
-<text x="248" y="461" fill="#5d6b82" font-size="15">sample or oscillator</text>
-<rect x="28" y="540" width="404" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
+<text x="40" y="461" fill="#5d6b82" font-size="14.5">notes and CCs</text>
+<rect x="206" y="412" width="166" height="62" rx="10" fill="#fff" stroke="#c9d1dd" stroke-width="1.4"/>
+<text x="218" y="438" fill="#5d6b82" font-size="18" font-weight="600">Audio source</text>
+<text x="218" y="461" fill="#5d6b82" font-size="14.5">sample, oscillator</text>
+<rect x="28" y="540" width="344" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
 <text x="40" y="566" fill="#14213d" font-size="18" font-weight="600">Four effects</text>
-<text x="40" y="589" fill="#5d6b82" font-size="15">filter · level · frequency shift · auto-pan</text>
-<rect x="130" y="664" width="200" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
-<text x="142" y="690" fill="#14213d" font-size="18" font-weight="600">Speakers</text>
-<text x="142" y="713" fill="#5d6b82" font-size="15">audio out</text>
-<path d="M126 114L126 170" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
-<rect x="92.6" y="134" width="66.9" height="19" rx="4" fill="#fff"/><text x="126" y="147" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">pressed</text>
-<circle cx="80.6" cy="143" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="80.6" y="147" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">1</text>
-<path d="M334 114L334 170" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
-<rect x="277.0" y="134" width="113.9" height="19" rx="4" fill="#fff"/><text x="334" y="147" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">tilt, heading</text>
-<circle cx="265.0" cy="143" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="265.0" y="147" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">2</text>
-<path d="M230 232L230 292" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
-<rect x="157.4" y="258" width="145.3" height="19" rx="4" fill="#fff"/><text x="230" y="271" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">MIDI, 31,250 baud</text>
-<circle cx="145.4" cy="267" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="145.4" y="271" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">3</text>
-<path d="M180 354L180 412" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
-<rect x="162.2" y="376" width="35.5" height="19" rx="4" fill="#fff"/><text x="180" y="389" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">USB</text>
-<circle cx="150.2" cy="385" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="150.2" y="389" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">4</text>
-<path d="M126 474L126 540" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
-<rect x="57.3" y="499" width="137.4" height="19" rx="4" fill="#fff"/><text x="126" y="512" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">switch on, steer</text>
-<circle cx="45.3" cy="508" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="45.3" y="512" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">5</text>
-<path d="M334 474L334 540" fill="none" stroke="#5d6b82" stroke-width="1.6" marker-end="url(#m)"/>
-<rect x="308.4" y="499" width="51.2" height="19" rx="4" fill="#fff"/><text x="334" y="512" text-anchor="middle" fill="#5d6b82" font-size="14" font-weight="400">audio</text>
-<path d="M230 602L230 664" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
-<rect x="204.4" y="625" width="51.2" height="19" rx="4" fill="#fff"/><text x="230" y="638" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">sound</text>
-<circle cx="192.4" cy="634" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="192.4" y="638" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">6</text>
+<text x="40" y="589" fill="#5d6b82" font-size="14.5">filter · level · frequency shift · auto-pan</text>
+<rect x="100" y="664" width="200" height="62" rx="10" fill="#fff" stroke="#1f4fd1" stroke-width="2.2"/>
+<text x="112" y="690" fill="#14213d" font-size="18" font-weight="600">Speakers</text>
+<text x="112" y="713" fill="#5d6b82" font-size="14.5">audio out</text>
+<path d="M111 114L111 170" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="77.6" y="134" width="66.9" height="19" rx="4" fill="#fff"/><text x="111" y="147" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">pressed</text>
+<circle cx="65.6" cy="143" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="65.6" y="147" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">1</text>
+<path d="M289 114L289 170" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="232.0" y="134" width="113.9" height="19" rx="4" fill="#fff"/><text x="289" y="147" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">tilt, heading</text>
+<circle cx="220.0" cy="143" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="220.0" y="147" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">2</text>
+<path d="M200 232L200 292" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="127.4" y="258" width="145.3" height="19" rx="4" fill="#fff"/><text x="200" y="271" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">MIDI, 31,250 baud</text>
+<circle cx="115.4" cy="267" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="115.4" y="271" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">3</text>
+<path d="M150 354L150 412" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="132.2" y="363" width="35.5" height="19" rx="4" fill="#fff"/><text x="150" y="376" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">USB</text>
+<circle cx="120.2" cy="372" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="120.2" y="376" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">4</text>
+<path d="M111 474L111 540" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="42.3" y="499" width="137.4" height="19" rx="4" fill="#fff"/><text x="111" y="512" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">switch on, steer</text>
+<circle cx="30.3" cy="508" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="30.3" y="512" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">5</text>
+<path d="M289 474L289 540" fill="none" stroke="#5d6b82" stroke-width="1.6" marker-end="url(#m)"/>
+<rect x="263.4" y="499" width="51.2" height="19" rx="4" fill="#fff"/><text x="289" y="512" text-anchor="middle" fill="#5d6b82" font-size="14" font-weight="400">audio</text>
+<path d="M200 602L200 664" fill="none" stroke="#1f4fd1" stroke-width="2.4" marker-end="url(#a)"/>
+<rect x="174.4" y="625" width="51.2" height="19" rx="4" fill="#fff"/><text x="200" y="638" text-anchor="middle" fill="#1f4fd1" font-size="14" font-weight="600">sound</text>
+<circle cx="162.4" cy="634" r="10" fill="#fff" stroke="#1f4fd1" stroke-width="1.5"/><text x="162.4" y="638" text-anchor="middle" fill="#1f4fd1" font-size="12" font-weight="700" font-family="IBM Plex Mono, Consolas, monospace">6</text>
 </svg>
