@@ -18,7 +18,13 @@
 
 ## Architecture
 
-<p align="center"><img src="docs/architecture.en.svg" width="400" alt="MIDI Hand architecture: buttons and sensors on the micro:bit, a MicroPython script sends MIDI over a MIDI-USB cable, the Max/MSP patch applies four effects to a sample or an oscillator"></p>
+<p align="center"><img src="docs/architecture.svg" width="400" alt="MIDI Hand architecture: buttons and sensors on the micro:bit, a MicroPython script sends MIDI over a MIDI-USB cable, the Max/MSP patch applies four effects to a sample or an oscillator"></p>
+
+<details><summary>French version</summary>
+
+<p align="center"><img src="docs/architecture.fr.svg" width="400" alt="Architecture de MIDI Hand : boutons et capteurs sur la micro:bit, un script MicroPython envoie du MIDI par un câble MIDI-USB, le patch Max/MSP applique quatre effets à un extrait ou à un oscillateur"></p>
+
+</details>
 
 ## Status
 
