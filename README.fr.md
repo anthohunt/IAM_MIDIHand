@@ -4,9 +4,15 @@
 
 **Un gant qui joue des effets audio.** Maintenir l'un des quatre boutons de la paume active un effet dans Max/MSP ; l'inclinaison du bras et le cap de la boussole, lus par une carte BBC micro:bit, le règlent.
 
-[![Le gant, puis le filtre, le volume et le panoramique réglés par le bras dans le patch Max/MSP (cliquer pour la vidéo complète)](docs/demo.gif)](https://drive.google.com/file/d/1qyNxkPGdsj8i7iHvZa6W6IYRKT5G1GRB/view)
+[![Le gant, puis le filtre, le volume et le panoramique réglés par le bras dans le patch Max/MSP (version anglaise, cliquer pour la vidéo complète)](docs/demo.webp)](https://drive.google.com/file/d/1qyNxkPGdsj8i7iHvZa6W6IYRKT5G1GRB/view)
 
-*[Vidéo complète avec le son (1 min 59)](https://drive.google.com/file/d/1qyNxkPGdsj8i7iHvZa6W6IYRKT5G1GRB/view)*
+<details><summary>Version française</summary>
+
+[![Le gant, puis le filtre, le volume et le panoramique réglés par le bras dans le patch Max/MSP (cliquer pour la vidéo complète)](docs/demo.fr.webp)](https://drive.google.com/file/d/1QbIa6bsjNl9FtMlIqHvVB8_-le1eRbYG/view)
+
+</details>
+
+*[Vidéo complète avec le son (1 min 59)](https://drive.google.com/file/d/1QbIa6bsjNl9FtMlIqHvVB8_-le1eRbYG/view)*
 
 ## Utilisation
 
