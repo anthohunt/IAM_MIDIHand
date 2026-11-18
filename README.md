@@ -4,15 +4,14 @@
 
 **A glove that plays audio effects.** Holding one of four buttons on the palm turns an effect on in Max/MSP; the arm's tilt and compass heading, read by a BBC micro:bit, steer it.
 
-[![The glove, then the filter, level and auto-pan steered by the arm in the Max/MSP patch (click for the full video)](docs/demo.webp)](https://drive.google.com/file/d/1qyNxkPGdsj8i7iHvZa6W6IYRKT5G1GRB/view)
+![The glove, then the filter, level and auto-pan steered by the arm in the Max/MSP patch](docs/demo.webp)
 
 <details><summary>French version</summary>
 
-[![Le gant, puis le filtre, le volume et le panoramique réglés par le bras dans le patch Max/MSP (cliquer pour la vidéo complète)](docs/demo.fr.webp)](https://drive.google.com/file/d/1QbIa6bsjNl9FtMlIqHvVB8_-le1eRbYG/view)
+![Le gant, puis le filtre, le volume et le panoramique réglés par le bras dans le patch Max/MSP](docs/demo.fr.webp)
 
 </details>
 
-*[Full video with sound (1:59)](https://drive.google.com/file/d/1qyNxkPGdsj8i7iHvZa6W6IYRKT5G1GRB/view)*
 
 ## Using it
 
